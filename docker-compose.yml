@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  data-cleaning:
+    build: .
+    container_name: sensor-data-pipeline
+    volumes:
+      - .:/app
+    command: ["python", "data_cleaning.py"]

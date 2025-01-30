@@ -1,0 +1,7 @@
+[
+    {"device_id": "sensor_123", "timestamp": "2025-01-29T14:30:00Z", "temperature": 25.5, "humidity": 60, "pressure": 1013.25, "battery": 85},
+    {"device_id": "sensor_123", "timestamp": "2025-01-29T14:31:00Z", "temperature": -50, "humidity": 60, "pressure": 1013.25, "battery": 85},
+    {"device_id": "sensor_123", "timestamp": "2025-01-29T14:29:00Z", "temperature": 24.0, "humidity": 58, "pressure": 1012.50, "battery": 87},
+    {"device_id": "sensor_123", "timestamp": "2025-01-29T14:30:00Z", "temperature": 26.0, "humidity": 62, "pressure": 1013.50, "battery": 84},
+    {"device_id": "sensor_124", "timestamp": "2025-01-29T14:32:00Z", "temperature": null, "humidity": 59, "pressure": 1012.75, "battery": 80}
+]
